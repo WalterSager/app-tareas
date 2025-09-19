@@ -22,10 +22,11 @@ git clone https://github.com/WalterSager/app-tareas.git
 cd app-tareas
 
 1. Backend (NestJS)
+
 cd tareas-back
 npm install
 
-2. Frontend (React)
+3. Frontend (React)
 
 En otra terminal:
 
